@@ -27,3 +27,7 @@ javascript:(function(){
   }
 })()
 ```
+
+Screenshot:
+
+![bookmark screenshot](Screen%20Shot%202020-06-29%20at%2010.39.37%20AM.png "Bookmark screenshot")
